@@ -1,0 +1,27 @@
+Admin
+-------------------
+login (username:admin,password:admin)
+
+Add Question
+View Question
+Delete Question
+
+search users based on skills
+view matched profiles based on given skills with their personality
+
+logout
+
+
+
+
+User
+---------------
+registaration
+login
+
+View Questions
+Answer Question
+
+Update Profile
+
+Logout
